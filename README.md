@@ -1,4 +1,4 @@
-# Multi Image Crop & Resizer — React Native (Expo)
+# Multi Image Crop & Resizer 
 
 Developed by **Ghulam Shabbir**,
 
